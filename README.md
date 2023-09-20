@@ -5,5 +5,4 @@
   <p>💼 Skills: HTML, CSS, JavaScript, C++, C#, Python</p>
   <br>
   <p>🌌 Uncovering GitHub's Mysteries 🌠 | 🌕 Embracing the Dark Side of Code 💻</p>
-  <p>#CodeByNight 🌌 | #RaccoonAdventures 🦝 | #TechEnthusiast 🚀 | #OpenSourceAdvocate 🔓</p>
 </div>
